@@ -1,0 +1,7 @@
+.DS_Store
+ThumbsDB
+/Data/IN_WT_FI.png
+/Data/PC_WT_FI.png
+__pycache__
+.idea
+*.zip
