@@ -19,3 +19,4 @@ If you just want to run the experiments without the GUI you have to set
 
 at the beginning of each file.
 
+The code was tested with PymoNNto version 3.0.3 (https://github.com/trieschlab/PymoNNto)
